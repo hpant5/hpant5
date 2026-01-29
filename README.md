@@ -40,7 +40,7 @@ Full-stack donation logistics application with real-time notifications and USPS 
 
 ### Industry Data and Machine Learning Systems
 
-I have end-to-end data engineering and ML experience across sports gaming, insurance, and healthcare domains.[file:16]
+I have end-to-end data engineering and ML experience across sports gaming, insurance, and healthcare domains.
 
 #### Sports Gaming and Fantasy Sports (Fantasy Akhanda)
 
