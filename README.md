@@ -2,12 +2,12 @@
 
 Data Applications Engineer | AI and Data Platforms | MS Software Engineering @ ASU
 
-I build production-grade data and AI systems: from Spark and Snowflake ETL to agentic RAG applications with real users.[file:16]
+I build production-grade data and AI systems: from Spark and Snowflake ETL to agentic RAG applications with real users.
 
-- Currently: MS in Software Engineering (AI specialization) at Arizona State University, building data applications and AI agents.[file:16]
-- Experience: 5+ years in data engineering across fintech, sports gaming, and healthcare using Spark, Snowflake, Airflow, Databricks, AWS, and Azure.[file:16]
-- Interests: Data platforms, machine learning in production, RAG systems, workflow orchestration.[file:16]
-- Certifications: AWS Certified (target Feb 2026), Microsoft Fabric Certified (target Feb 2026).
+- Currently: MS in Software Engineering (AI specialization) at Arizona State University, building data applications and AI agents.
+- Experience: 5+ years in data engineering across fintech, sports gaming, and healthcare using Spark, Snowflake, Airflow, Databricks, AWS, and Azure.
+- Interests: Data platforms, machine learning in production, RAG systems, workflow orchestration.
+- Certifications: AWS Certified, Microsoft Fabric Certified .
 - Websites: Portfolio at https://himanshupant.dev, PauseButton at https://pausebutton.dev, LifeSync at https://lifesync.xyz.
 - Location: Phoenix, AZ (open to relocation) 
 - Contact: hpant.data@gmail.com
@@ -31,27 +31,27 @@ Agentic AI law and compliance consultant with a RAG pipeline and ChromaDB, power
 
 ### Goods for Good – Donation Logistics Platform
 
-Full-stack donation logistics application with real-time notifications and USPS API integration.[file:16]  
-- Optimizes delivery routing using geolocation, improving routing time by approximately 30 percent.[file:16]  
-- Handles donor to NGO matching, pickup scheduling, and tracking workflow end to end.[file:16]  
+Full-stack donation logistics application with real-time notifications and USPS API integration.
+- Optimizes delivery routing using geolocation, improving routing time by approximately 30 percent.
+- Handles donor to NGO matching, pickup scheduling, and tracking workflow end to end.
 - Stack: describe frontend, backend, database, and hosting here.
 
 ---
 
 ### Industry Data and Machine Learning Systems
 
-Representative work recreated from industry projects (with anonymized data and architectures).[file:16]
+Representative work recreated from industry projects (with anonymized data and architectures).
 
 - Churn Prediction and Campaign Automation – Sports Gaming  
-  - Built and deployed a user churn prediction model for new users, reducing churn by about 18 percent through automated campaign generation.[file:16]  
-  - Orchestrated data pipelines on Databricks and Airflow to keep features and predictions up to date.[file:16]
+  - Built and deployed a user churn prediction model for new users, reducing churn by about 18 percent through automated campaign generation.  
+  - Orchestrated data pipelines on Databricks and Airflow to keep features and predictions up to date.
 
 - Financial ETL and Data Applications – EXL  
-  - Refactored Spark ETL on AWS Glue, reducing runtime from about 1 hour 40 minutes to about 30 minutes.[file:16]  
-  - Built Python-based data applications and automated data validation with Great Expectations and CI/CD for compliant workflows.[file:16]
+  - Refactored Spark ETL on AWS Glue, reducing runtime from about 1 hour 40 minutes to about 30 minutes. 
+  - Built Python-based data applications and automated data validation with Great Expectations and CI/CD for compliant workflows
 
 - Healthcare ETL Migration – Futurense  
-  - Migrated legacy SAS ETL to Spark on Azure, reducing processing from more than 9 hours to less than 1 hour.[file:16]
+  - Migrated legacy SAS ETL to Spark on Azure, reducing processing from more than 9 hours to less than 1 hour.
 
 You can link to a separate repository that documents these systems with diagrams, sample notebooks, and synthetic data.
 
@@ -83,11 +83,11 @@ Planned AI agent and resume parser that takes an initial resume and automates ap
 
 ## Tech Stack
 
-Data and Machine Learning: Spark, Databricks, Apache Iceberg, Airflow, ETL, data modeling, feature stores, data validation with Great Expectations.[file:16]  
-Databases: Snowflake, PostgreSQL, MySQL, MongoDB, Microsoft SQL Server.[file:16]  
-Cloud and Infrastructure: AWS (Glue, EMR, S3, Step Functions), Azure, Docker, Kubernetes, Terraform, Kafka.[file:16]  
-Languages: Python, SQL, Java, Go, Bash, JavaScript.[file:16]  
-Analytics: Machine learning, Power BI, Tableau.[file:16]
+Data and Machine Learning: Spark, Databricks, Apache Iceberg, Airflow, ETL, data modeling, feature stores, data validation with Great Expectations.  
+Databases: Snowflake, PostgreSQL, MySQL, MongoDB, Microsoft SQL Server.
+Cloud and Infrastructure: AWS (Glue, EMR, S3, Step Functions), Azure, Docker, Kubernetes, Terraform, Kafka.
+Languages: Python, SQL, Java, Go, Bash, JavaScript. 
+Analytics: Machine learning, Power BI, Tableau.
 
 ---
 
