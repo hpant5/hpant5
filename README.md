@@ -4,11 +4,10 @@ Data Applications Engineer | AI and Data Platforms | MS Software Engineering @ A
 
 I build production-grade data and AI systems: from Spark and Snowflake ETL to agentic RAG applications with real users.
 
-- Currently: MS in Software Engineering (AI specialization) at Arizona State University, building data applications and AI agents.
-- Experience: 3 years in data engineering across fintech, sports gaming, and healthcare using Spark, Snowflake, Airflow, Databricks, AWS, and Azure.
+- Experience: 5+ years in data engineering across fintech, sports gaming, and healthcare using Spark, Snowflake, Airflow, Databricks, AWS, and Azure.
 - Interests: Data platforms, machine learning in production, RAG systems, workflow orchestration.
 - Certifications: AWS Certified, Microsoft Fabric Certified .
-- Websites: Portfolio at https://himanshupant.dev, PauseButton at https://pausebutton.dev, LifeSync at https://lifesync.xyz.
+- Websites: Portfolio at https://himanshupant.dev
 - Location: Phoenix, AZ (open to relocation) 
 - Contact: hpant.data@gmail.com
 - LinkedIn: https://linkedin.com/in/himanshupant-de
